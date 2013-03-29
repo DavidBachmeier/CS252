@@ -1,0 +1,6 @@
+total 13
+-rw-r--r--. 1 forstezt SFU_Users      0 Nov 12 22:47 foo.txt
+-rw-r--r--. 1 forstezt SFU_Users    250 Nov 12 22:28 ls.txt
+-rwxr-xr-x. 1 forstezt SFU_Users  10249 Nov 12 22:45 shell
+-rwx------. 1 forstezt 4294967294  3110 Nov 12 22:45 shell.c
+-rwx------. 1 forstezt 4294967294    42 Nov 12 21:25 shell.h

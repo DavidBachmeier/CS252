@@ -1,0 +1,35 @@
+
+
+Scores:
+score 0: 10
+score 1: 10
+score 2: 8
+score 3: 7
+score 4: 5
+score 5: 4
+score 6: 10
+score 7: 2
+score 8: 2
+score 9: 8
+score 10: 7
+score 11: 7
+
+
+
+Unsorted Histogram:
+value 10: freq 3
+value 8: freq 2
+value 7: freq 3
+value 5: freq 1
+value 4: freq 1
+value 2: freq 2
+
+
+
+Sorted Histogram:
+value 10: freq 3
+value 7: freq 3
+value 8: freq 2
+value 2: freq 2
+value 5: freq 1
+value 4: freq 1
